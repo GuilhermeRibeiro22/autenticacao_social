@@ -29,8 +29,10 @@ class _HomeViewState extends State<HomeView> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("Autenticação com o Google"),
-          backgroundColor: Colors.blue,
+          title: Text("Autenticação com o Google",
+            style: TextStyle(color: Colors.white),
+          ),
+          backgroundColor: Colors.blueGrey,
           centerTitle: true,
         ),
         body: SizedBox(
