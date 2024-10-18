@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "1024008823398",
+    "project_id": "autenticacao-33c12",
+    "storage_bucket": "autenticacao-33c12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024008823398:android:07387006ffc271472703a7",
+        "android_client_info": {
+          "package_name": "com.autenticacao.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024008823398-ghpa1choqhbakmf7mr6pvt7mhkn2co33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3WPRQ_Yt4IxsBXMjYVxcJHySSTamreuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024008823398-ghpa1choqhbakmf7mr6pvt7mhkn2co33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024008823398-5u5ip9eb04nnmf3m6f4iib8399qcecqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.atividadeAutenticacao"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024008823398:android:7a2d1afa58bd8acd2703a7",
+        "android_client_info": {
+          "package_name": "com.example.autenticacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024008823398-ghpa1choqhbakmf7mr6pvt7mhkn2co33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3WPRQ_Yt4IxsBXMjYVxcJHySSTamreuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024008823398-ghpa1choqhbakmf7mr6pvt7mhkn2co33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024008823398-5u5ip9eb04nnmf3m6f4iib8399qcecqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.atividadeAutenticacao"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024008823398:android:a7c2f570eb446c6b2703a7",
+        "android_client_info": {
+          "package_name": "com.example.autenticacao_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024008823398-ghpa1choqhbakmf7mr6pvt7mhkn2co33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3WPRQ_Yt4IxsBXMjYVxcJHySSTamreuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024008823398-ghpa1choqhbakmf7mr6pvt7mhkn2co33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024008823398-5u5ip9eb04nnmf3m6f4iib8399qcecqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.atividadeAutenticacao"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024008823398:android:0219620a5f74cb642703a7",
+        "android_client_info": {
+          "package_name": "com.example.teste2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024008823398-ghpa1choqhbakmf7mr6pvt7mhkn2co33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3WPRQ_Yt4IxsBXMjYVxcJHySSTamreuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024008823398-ghpa1choqhbakmf7mr6pvt7mhkn2co33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024008823398-5u5ip9eb04nnmf3m6f4iib8399qcecqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.atividadeAutenticacao"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024008823398:android:02cd9c500f9c1f712703a7",
+        "android_client_info": {
+          "package_name": "com.example.testfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024008823398-ghpa1choqhbakmf7mr6pvt7mhkn2co33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3WPRQ_Yt4IxsBXMjYVxcJHySSTamreuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024008823398-ghpa1choqhbakmf7mr6pvt7mhkn2co33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024008823398-5u5ip9eb04nnmf3m6f4iib8399qcecqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.atividadeAutenticacao"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
